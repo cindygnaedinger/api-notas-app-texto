@@ -1,0 +1,21 @@
+{
+  "name": "api-notas-app-texto",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000a\u0000p\u0000i\u0000-\u0000n\u0000o\u0000t\u0000a\u0000s\u0000-\u0000a\u0000p\u0000p\u0000-\u0000t\u0000e\u0000x\u0000t\u0000o\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "dotenv": "^16.3.2",
+    "express": "^4.18.2",
+    "joi": "^17.12.0",
+    "jsonwebtoken": "^9.0.2",
+    "mysql2": "^3.7.1"
+  }
+}
